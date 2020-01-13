@@ -6,6 +6,7 @@ Demonstrates:
 
 # Licenses
 CURL Project
+
 Copyright (C) 1998 - 2019, Daniel Stenberg, <daniel@haxx.se>, et al.
 
 This software is licensed as described in the file COPYING, which
